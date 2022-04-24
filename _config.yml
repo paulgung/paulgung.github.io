@@ -1,0 +1,36 @@
+# Site settings
+title: Paul Gung
+description: 'Business Card Page'
+url: 'https://paulgung.github.io'
+baseurl: ''
+profilepic: '/images/head.png'
+bkimage: '/images/19827.jpg'
+google_analytics: UA-XXXXXX-X
+font_awesome: 'eda49f1df0.js'
+
+author:
+  name: 'Paul Gung'
+  email: gongshaoxu@gmail.com
+  twitter_username: PaulGung
+  # facebook_username: Paul Gung
+  github_username:  paulgung
+  linkedin_username:  paul-gung-9167b3238
+  meetup_name: 
+
+# Build settings
+destination: _site
+markdown: kramdown
+highlighter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+#plugins: ['jekyll-paginate']
+exclude: ['README.md']
