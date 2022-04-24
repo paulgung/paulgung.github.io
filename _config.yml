@@ -4,8 +4,8 @@ description: 'Business Card Page'
 url: 'https://paulgung.github.io'
 baseurl: ''
 profilepic: '/images/head.png'
-bkimage: '/images/19827.jpg'
-google_analytics: UA-XXXXXX-X
+bkimage: '/images/background.jpg'
+google_analytics: 
 font_awesome: 'eda49f1df0.js'
 
 author:
