@@ -10,7 +10,7 @@
   repo: keycloakssh
   img: https://user-images.githubusercontent.com/32843441/147859397-a1dbc63b-c58f-4536-ae8a-d51e17aa08ce.png
   desc: Some scripts that I used with Azure Automation.For example a VM Start/Stop script or a script for resetting a VPN tunnel.
-  
+
 - name: Monopoly Money Manager
   gh_user: tzuehlke
   repo: MonopolyMoneyManager
@@ -32,7 +32,7 @@
 - name: Jekyll Theme
   gh_user: tzuehlke
   repo: tzuehlke.github.io
-  img: https://raw.githubusercontent.com/tzuehlke/paulgung.github.io/master/screenshot-overview.png
+  img:
   desc: This Jekyll Theme. Based on the Uno-Theme with a list of projects as timeline. Like a business card.
 
 - name: Azure Automation Scripts
