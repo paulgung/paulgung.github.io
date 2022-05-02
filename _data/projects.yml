@@ -1,18 +1,18 @@
 # projects section data
-- name: Long running Azure Functions on Consumption Plan
-  gh_user: tzuehlke
-  repo: AzureFunction-TimeoutCheck
-  img: 
-  desc: Some scripts that I used with Azure Automation. For example a VM Start/Stop script or a script for resetting a VPN tunnel.
-
 - name: Keycloak Dockerfile with SSH
-  gh_user: tzuehlke
-  repo: keycloakssh
-  img: 
+  gh_user: paulgung
+  repo: paulgung.github.io
+  img:
   desc: Some scripts that I used with Azure Automation.For example a VM Start/Stop script or a script for resetting a VPN tunnel.
 
-- name: Monopoly Money Manager
-  gh_user: tzuehlke
-  repo: MonopolyMoneyManager
-  img: 
+- name: Keycloak Dockerfile with SSH
+  gh_user: paulgung
+  repo: paulgung.github.io
+  img:
+  desc: Some scripts that I used with Azure Automation.For example a VM Start/Stop script or a script for resetting a VPN tunnel.
+
+- name: Keycloak Dockerfile with SSH
+  gh_user: paulgung
+  repo: paulgung.github.io
+  img:
   desc: Some scripts that I used with Azure Automation.For example a VM Start/Stop script or a script for resetting a VPN tunnel.
