@@ -5,7 +5,7 @@
   img: ./images/project-imgs/react-video-chat-app.png
   desc: Integrate the 100ms SDK features to create a chat application using Next.js framework and TailwindCSS.
 
-- name: Jekyll-Docker personal website
+- name: Jekyll-Docker Personal Website
   gh_user: paulgung
   repo: paulgung.github.io
   img: ./images/project-imgs/paulgung-github-io.png
