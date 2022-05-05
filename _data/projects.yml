@@ -1,15 +1,15 @@
 # projects section data
-- name: Keycloak Dockerfile with SSH
+- name: A Video Chat App with Next.js
   gh_user: paulgung
-  repo: paulgung.github.io
-  img:
-  desc: Some scripts that I used with Azure Automation.For example a VM Start/Stop script or a script for resetting a VPN tunnel.
+  repo: react-video-chat-app
+  img: ./images/project-imgs/react-video-chat-app.png
+  desc: Integrate the 100ms SDK features to create a chat application using Next.js framework and TailwindCSS.
 
-- name: Keycloak Dockerfile with SSH
+- name: Jekyll-Docker personal website
   gh_user: paulgung
   repo: paulgung.github.io
-  img:
-  desc: Some scripts that I used with Azure Automation.For example a VM Start/Stop script or a script for resetting a VPN tunnel.
+  img: ./images/project-imgs/paulgung-github-io.png
+  desc: Docker image running jekyll website from remote git repo, optimized Docker base image for building websites.
 
 - name: Keycloak Dockerfile with SSH
   gh_user: paulgung
