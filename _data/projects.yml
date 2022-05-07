@@ -11,8 +11,8 @@
   img: ./images/project-imgs/paulgung-github-io.png
   desc: Docker image running jekyll website from remote git repo, optimized Docker base image for building websites.
 
-- name: Keycloak Dockerfile with SSH
+- name: Vue3.js Tree-Select UI Component
   gh_user: paulgung
-  repo: paulgung.github.io
-  img:
-  desc: Some scripts that I used with Azure Automation.For example a VM Start/Stop script or a script for resetting a VPN tunnel.
+  repo: vue-tree-select-component
+  img: ./images/project-imgs/vue-tree-select-component.png
+  desc: Used to select from a set of related data sets. Pass options as a parameter to the TreeSelect component.
