@@ -15,4 +15,4 @@
   gh_user: paulgung
   repo: vue-tree-select-component
   img: ./images/project-imgs/vue-tree-select-component.png
-  desc: Used to select from a set of related data sets. Pass options as a parameter to the TreeSelect component.
+  desc: Pass options as a parameter to the TreeSelect component.then it will automatically display a set of data with hierarchies.
