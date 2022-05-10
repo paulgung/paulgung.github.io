@@ -17,8 +17,14 @@
   img: ./images/project-imgs/vue-tree-select-component.png
   desc: Pass options as a parameter to the TreeSelect component.then it will automatically display a set of data with hierarchies.
 
-- name: LeetCode1600-Python-Journey
+- name: LeetCode1600-Python Journey
   gh_user: paulgung
   repo: LeetCode1600-Python
   img: ./images/project-imgs/LeetCode1600-Python.png
-  desc: This repository contains the solutions and explanations to the algorithm problems on LeetCode. All are written in Python3 and implemented by myself.
+  desc: This repository contains the solutions and explanations to the algorithm problems on LeetCode. All are written in Python3.
+
+- name: Custom Webpack Loader and Configs
+  gh_user: paulgung
+  repo: custom-webpack-loader-configs
+  img: ./images/project-imgs/webpack-mostly-used-configs.png
+  desc: Write and use custom configurations and lodaders which are the heart of how webpack compiles TypeScript, SASS, JSX, etc.
