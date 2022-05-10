@@ -25,11 +25,15 @@ $(document).ready(function () {
     $('.panel-cover').addClass('panel-cover--collapsed');
     currentWidth = $('.panel-cover').width()
     if (currentWidth < 960) {
+      console.log(screen.width)
       $('.panel-cover').addClass('panel-cover--collapsed')
-      $('.content-wrapper').addClass('animated slideInRight')
+      $('.content-wrapper').addClass('animated')
     } else {
       $('.panel-cover').css('max-width', currentWidth)
       $('.panel-cover').animate({'max-width': '530px', 'width': '40%'}, 400, swing = 'swing', function () {})
+    }
+    if(screen.width>960){
+      $('.content-wrapper').addClass('slideInRight')
     }
     $('.content-wrapper').addClass('showing');
   })
