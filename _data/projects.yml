@@ -34,3 +34,9 @@
   repo: realtime-docs-react-app
   img: ./images/project-imgs/google-docs-clone.png
   desc: Build a Google Docs clone using React, Material UI, and Firebase. Click any document, it will open up and we can edit them.
+
+- name: A cryptocurrency with crypto-js
+  gh_user: paulgung
+  repo: cryptocurrency-nodejs
+  img: ./images/project-imgs/cryptocurrency-nodejs.png
+  desc: Build a cryptocurrency with Node and cryptojs, use the Secure Hash Algorithm (SHA256) to help us encrypt the block hash ID.
