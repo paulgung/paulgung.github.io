@@ -40,3 +40,15 @@
   repo: cryptocurrency-nodejs
   img: ./images/project-imgs/cryptocurrency-nodejs.png
   desc: Build a cryptocurrency with Node and cryptojs, use the Secure Hash Algorithm (SHA256) to help us encrypt the block hash ID.
+
+- name: Chat dApp with React and GunJs
+  gh_user: paulgung
+  repo: chat-gunjs-react-app
+  img: ./images/project-imgs/chat-dapp-react-gunjs.png
+  desc: Building a Decentralized Chat dApp With React and GunJs which allows us to store data without any external servers or databases.
+
+- name: Micro-Frontends qiankun Clone
+  gh_user: paulgung
+  repo: microfrontend-qiankun-clone
+  img: ./images/project-imgs/qiankun-microfrontend-clone.jpg
+  desc: The simple version clone of the Micro-Frontends qiankun framework, sub apps are deployed on the main application separately.
